@@ -3,14 +3,13 @@
 This model uses a DCGAN architecture combined with attributes input to generate faces trained on the Celeb_A dataset.
 
 ### Generator Architecture
-
-![image](https://user-images.githubusercontent.com/56511544/119218454-a2b2ce80-bae0-11eb-8780-7c37a0220995.png)  
-<img src="https://user-images.githubusercontent.com/56511544/119218454-a2b2ce80-bae0-11eb-8780-7c37a0220995.png" alt="generator" width="200"/>
+ 
+<img src="https://user-images.githubusercontent.com/56511544/119218454-a2b2ce80-bae0-11eb-8780-7c37a0220995.png" alt="generator" width="400"/>  
 <font size="2"> Image source: reproduced from Radford et al. (2015) </font>
 
 ### Discriminator Architecture
 
-![image](https://user-images.githubusercontent.com/56511544/119218481-ca099b80-bae0-11eb-9b2d-c07a2b693ba0.png)  
+<img src="https://user-images.githubusercontent.com/56511544/119218481-ca099b80-bae0-11eb-9b2d-c07a2b693ba0.png" alt="discriminator" width="400"/>  
 <font size="2"> Image source: Tracey Etheridge </font>
 
 ### Generated Images
@@ -23,6 +22,6 @@ The below matrix of images shows examples where the attributes have been held co
 
 Attributes: Male, Eyeglasses, Young, Brown Hair, Smiling, Oval Face
 
-![image](https://user-images.githubusercontent.com/56511544/119218690-f671e780-bae1-11eb-8859-ef119b183f2f.png)
+<img src="https://user-images.githubusercontent.com/56511544/119218690-f671e780-bae1-11eb-8859-ef119b183f2f.png" alt="faces_noise" width="400"/> 
 
 
