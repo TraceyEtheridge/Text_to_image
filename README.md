@@ -16,7 +16,7 @@ This model uses a DCGAN architecture combined with attributes input to generate 
 
 Here the addition of noise to generate variety in facial feature is held constant and the attribute input changed. A clear distinction in attributes can be seen. Note: This is a minmal example to show differences. With more attributes, better quality faces are produced.
 
-<img src="https://user-images.githubusercontent.com/56511544/119218643-b7dc2d00-bae1-11eb-9d30-783b008dc892.png" alt="faces_attr" width="600"/> 
+<img src="https://user-images.githubusercontent.com/56511544/119218643-b7dc2d00-bae1-11eb-9d30-783b008dc892.png" alt="faces_attr" width="500"/> 
 
 The below matrix of images shows examples where the attributes have been held constant and the noise parameter changed for each image. While images are still very similar, they are clearly different.
 
