@@ -2,11 +2,16 @@
 
 This model uses a DCGAN architecture combined with attributes input to generate faces trained on the Celeb_A dataset.
 
+### Generator Architecture
+
 ![image](https://user-images.githubusercontent.com/56511544/119218454-a2b2ce80-bae0-11eb-8780-7c37a0220995.png)  
-<font size="6"> Image source: reproduced from Radford et al. (2015) </font>
+<img src="https://user-images.githubusercontent.com/56511544/119218454-a2b2ce80-bae0-11eb-8780-7c37a0220995.png" alt="generator" width="200"/>
+<font size="2"> Image source: reproduced from Radford et al. (2015) </font>
+
+### Discriminator Architecture
 
 ![image](https://user-images.githubusercontent.com/56511544/119218481-ca099b80-bae0-11eb-9b2d-c07a2b693ba0.png)  
-<font size="6"> Image source: Tracey Etheridge </font>
+<font size="2"> Image source: Tracey Etheridge </font>
 
 ### Generated Images
 
